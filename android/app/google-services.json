@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1045185904067",
+    "project_id": "fir-example-c6af5",
+    "storage_bucket": "fir-example-c6af5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045185904067:android:40c4f8f343c56fc0bd1176",
+        "android_client_info": {
+          "package_name": "com.hasanoz.kilo_takipcisi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045185904067-0etmrvltlurivc2fnhpg26sjcu7rh90r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hasanoz.kilo_takipcisi",
+            "certificate_hash": "dcbad4f7e64e8ba48b539149b6f482cb764f5e02"
+          }
+        },
+        {
+          "client_id": "1045185904067-jdspobrckugjavo85tm745cg11v4ml1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArtSi07zkKJGyP-pxh24juDywlS_RxZ7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045185904067-jdspobrckugjavo85tm745cg11v4ml1s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1045185904067-7div2qcbjab618l78sv37ueqeep8paiv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firebaseexample.firabaseExample"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
